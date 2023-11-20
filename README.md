@@ -17,7 +17,7 @@
 </p>
 
 ## Запуск автотестов в Jenkins
-#### 1. Открыть <a target="_blank" href="C07-elena_ching-python_API_tests_final">проект</a>
+#### 1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/C07-elena_ching-python_API_tests_final/">проект</a>
 #### 2. Нажать **Build Now**
 ![This is an image](design/jenkins_build.png)
 #### 3. Результат запуска сборки можно посмотреть в отчёте Allure
